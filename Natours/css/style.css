@@ -15,7 +15,8 @@ Dark green: #28b485
 }
 
 html {
-    font-size: 10px; /* 1 rem = 10px */
+    /* font-size: 10px;  1 rem = 10px */
+    font-size: 62.5%; /* we want 10px, default is 16: 10/16 = 62.5% */
 }
 
 body {
